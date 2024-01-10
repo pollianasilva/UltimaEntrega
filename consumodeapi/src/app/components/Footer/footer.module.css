@@ -1,0 +1,21 @@
+.background {
+  background-color: snow;
+  padding-top: 5%;
+  color: #513443;
+  text-align: center;
+  margin-bottom: 15px; 
+}
+
+.titulo {
+  color: #513443;
+  text-decoration: none;
+}
+
+.titulo a {
+  color: #513443;
+  font-weight: bold;
+}
+
+.socialLinks img {
+  margin-right: 5px;
+}

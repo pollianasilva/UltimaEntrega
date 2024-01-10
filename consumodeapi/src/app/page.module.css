@@ -1,0 +1,49 @@
+.alinhamento {
+text-align: center;
+margin-left: 3%;
+color: #513443;
+
+}
+
+.centeredContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
+.separacao {
+  border-bottom: 1px solid #ccc; 
+  margin-bottom: 10px; 
+}
+
+.cartoes {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  
+  padding-left: 5%;
+  
+  margin-bottom: 20px;   
+  object-fit: cover;
+}
+
+.card-img-top {
+  width: 280px;
+  height: 380px;
+  object-fit: cover; 
+  max-width: 100%; 
+  object-fit: cover; 
+  display: block; 
+  margin: 0 auto;
+}
+
+.custom-card-title {
+  color: #513443; 
+}
+
+.custom-button {
+  color: #fff; 
+  background-color: #513443;
+  border-color: #513443; 
+  
+}
