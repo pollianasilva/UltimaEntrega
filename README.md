@@ -1,12 +1,7 @@
 # Projeto Agência de Viagens
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=1000&color=FD8524&random=false&width=435&lines=Última+Entrega)](https://git.io/typing-svg)<br>
 ![RecodePro](https://img.shields.io/badge/RecodePro-fd8524?style=for-the-badge&logo=chipperci&logoColor=white)
-<br><br>
-**Video demo:**
-
-
-
-
+<br>
 
 Este é um projeto que envolve uma API com funcionalidades CRUD para usuários e viagens. A API foi desenvolvida usando Visual Studio da Microsoft e utiliza um banco de dados MySQL da Workbench.
 Porém o consumo da API foi feita no vs code e é apenas consulta a base de dados GET. 
