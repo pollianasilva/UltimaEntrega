@@ -2,9 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=1000&color=FD8524&random=false&width=435&lines=Última+Entrega)](https://git.io/typing-svg)<br>
 ![RecodePro](https://img.shields.io/badge/RecodePro-fd8524?style=for-the-badge&logo=chipperci&logoColor=white)
 <br>
+https://youtu.be/8gt03-jJXyA
 
 Este é um projeto que envolve uma API com funcionalidades CRUD para usuários e viagens. A API foi desenvolvida usando Visual Studio da Microsoft e utiliza um banco de dados MySQL da Workbench.
 Porém o consumo da API foi feita no vs code e é apenas consulta a base de dados GET. 
+
+
 <div style="display: inline_block" align = "center">
 FERRAMENTAS E LINGUAGENS:
 
@@ -17,6 +20,10 @@ FERRAMENTAS E LINGUAGENS:
 <img align="center" alt="Polly-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Polly-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
 </div> 
+
+# Apresentação do projeto
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8gt03-jJXyA?si=2-G7PFWDHPU7R4rl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Funcionalidades da API
 
